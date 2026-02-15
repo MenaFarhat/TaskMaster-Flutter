@@ -1,16 +1,30 @@
-# todoapp
+# TaskMaster Flutter
 
-A new Flutter project.
+A Flutter-based Todo app that helps users manage their tasks efficiently.  
+Add, edit, and delete tasks, mark them as complete, and stay organized.
+
+## Description
+
+TaskMaster Flutter is a simple yet powerful task management application built with Flutter.  
+It allows users to:
+- Add new tasks and set details
+- Edit or delete existing tasks
+- Mark tasks as completed
+- Keep tasks organized in a clean, intuitive interface
+
+This project was developed to practice Flutter state management, UI design, and local data persistence.
+
+## Features
+
+- Add, edit, delete tasks
+- Mark tasks as completed
+- Persistent storage for tasks
+- Responsive and clean UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a copy of the project up and running locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MinaFarhat/TaskMaster-Flutter.git

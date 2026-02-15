@@ -2,8 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:todoapp/ui/theme.dart';
-
+import 'package:taskmasterflutter/ui/theme.dart';
 class NotificationScreen extends StatefulWidget {
   const NotificationScreen({
     Key? key,

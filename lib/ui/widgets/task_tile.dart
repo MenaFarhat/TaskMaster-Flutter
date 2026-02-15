@@ -1,9 +1,10 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:todoapp/models/task.dart';
-import 'package:todoapp/ui/size_config.dart';
-import 'package:todoapp/ui/theme.dart';
-
+import 'package:taskmasterflutter/models/task.dart';
+import 'package:taskmasterflutter/ui/size_config.dart';
+import 'package:taskmasterflutter/ui/theme.dart';
 class TaskTile extends StatelessWidget {
   const TaskTile(this.task, {Key? key}) : super(key: key);
 
